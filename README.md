@@ -4,7 +4,7 @@
 
 Vienkārši teksts
 
-<!DOCTYPE html>
+``<!DOCTYPE html>
 <html>
 <body>
 
@@ -12,4 +12,4 @@ Vienkārši teksts
 <p>My first paragraph.</p>
 
 </body>
-</html>
+</html>``
